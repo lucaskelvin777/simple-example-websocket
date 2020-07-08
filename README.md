@@ -1,7 +1,6 @@
 # Começando
 
-Para começar extraia ou clone o projeto e dentro dele
-
+Para começar extraia ou clone o projeto, e dentro dele
 digite no seu shell:
 ```shell
 npm install
