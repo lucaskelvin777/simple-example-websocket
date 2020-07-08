@@ -1,4 +1,4 @@
-# Starting
+# Começando
 
 Para começar digite no seu shell:
 
